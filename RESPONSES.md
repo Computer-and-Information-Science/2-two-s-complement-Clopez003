@@ -1,46 +1,46 @@
-# Assignment 2 - YOUR NAME HERE
+# Assignment 2 - Chris Lopez
 
 ## Problem 1 - Responses
 
 ```
-14 =
--22 =
-100 =
--80 =
--4 =
+14 = 00001110 = 0E
+-22 = 11101010 = EA
+100 = 01100100 = 64
+-80 = 10110000 = B0
+-4 = 11111100  = FC
 ```
 
 ## Problem 2 - Responses
 
 ```
-4B =
-F0 =
-8D =
-EE =
-AF =
+4B = 75
+F0 = -16
+8D = -115
+EE = -18
+AF = -81
 ```
 
 ## Problem 3 - Responses
 
 ```
-4A39FD31 -
-E3BCC76F -
-6EDDC428 -
-9C662DEB -
-A000FFFF -
-BBAA0000 -
-7FFFFFFF -
-FFFF0000 -
-DDFFFF00 -
-84FDC2AA -
+4A39FD31 - Positive
+E3BCC76F - Negative
+6EDDC428 - Positive
+9C662DEB - Negative
+A000FFFF - Negative
+BBAA0000 - Negative
+7FFFFFFF - Positive
+FFFF0000 - Negative
+DDFFFF00 - Negative
+84FDC2AA - Negative
 ```
 
 ## Problem 4 - Responses
 
 ```
-Hola Mundo! =
-#comporg =
-3.14159 =
-F=(9.0/5)*C+32 =
-AaBbCcDd =
+Hola Mundo! = 48 6f 6c 61 20 4d 75 6e 64 6f 21
+#comporg = 23 63 6f 6d 70 6f 72 67
+3.14159 = 33 2e 31 34 31 35 39
+F=(9.0/5)*C+32 = 46 3d 28 39 2e 30 2f 35 29 2a 43 2b 33 32
+AaBbCcDd = 41 61 42 62 43 63 44 64
 ```
